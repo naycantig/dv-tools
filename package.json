@@ -1,0 +1,31 @@
+{
+  "name": "dv-tools",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"> <a href=\"https://telegra.ph/file/1987810931f35c34d77f9.png\"><img src=\"https://telegra.ph/file/1987810931f35c34d77f9.png\"</a> Powered by ICSF Team",
+  "main": "logwa.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcode-denpa/dv-tools.git"
+  },
+  "author": "denis putra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcode-denpa/dv-tools/issues"
+  },
+  "homepage": "https://github.com/dcode-denpa/dv-tools#readme",
+  "dependencies": {
+    "awesome-phonenumber": "^4.0.0",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "node-banner": "^1.4.0",
+    "readline": "^1.3.0",
+    "simple-banner": "^1.1.3",
+    "terminal-kit": "^3.0.0",
+    "util": "^0.12.5"
+  }
+}
